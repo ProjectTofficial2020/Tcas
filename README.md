@@ -18,22 +18,29 @@ Tcas a computer algebra system(CAS)
 
 # Any one who claim to be the owner of this project must provide enough info about this public key!
 
-## info about this project
+## Info about this project
 
 When I start this project, as part of the ProjectT, 2020/7/1, the goal is simple , to create a free(liscensed under GPLv3.0, completely free for teachers and students)
 CAS system for everyone to use, till now, the project is still at it's early points and I would rather keep it a secret.
 
-## roadmap
+## Roadmap
 
-CAS implied(of course), basic T# support(which I am not that certain)
+CAS implied(of course), basic T# support
 
-## version control
+## Version control
+
+#### 7/18/2020 version 0.0.1p Python Version of version 0.0.1
+##### File change
+add tcas.py
+##### Function by now
+input a expression, return the expression if it is a number
 
 #### 7/11/2020 version 0.0.1 Minor change
 
-##### file change
+##### File change
 add tcas.cpp
-##### functions by now
+##### Functions by now
 input a expression, return completely the same as input(when input is a number), first of the numbers(like 2343+3232 will return 2343)
 
-#### 7/1/2020 version 0.0.0 where the dream start
+#### 7/1/2020 version 0.0.0
+Where the dream started
